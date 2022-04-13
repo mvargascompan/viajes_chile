@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../desafios ricomida"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DESAFIO MODULO 5"
+	}
+}

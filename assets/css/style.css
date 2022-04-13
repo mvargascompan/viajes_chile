@@ -1,0 +1,78 @@
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+body {
+background: black;
+    color: white;
+}
+    .color-nav{
+        color: white;
+    }
+
+
+img {
+    max-width: 80%;
+    max-height: 100%;
+   }
+
+   .containertamaño {
+    max-height: 1000PX;
+  }
+  h1,h5 {
+      text-align: center;
+      color:white;
+  }
+  .color {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+      
+    }
+    .color_button {
+        background: aqua;
+    }
+    .color_formulario {
+        background: black;
+    }
+    p {
+        color:white
+    }
+    .color-texto {
+        color: black;
+    }
+    
+    .card-body {
+background: black;
+    }
+    .lya {
+        width: 100%;
+        display: float;
+        margin-left: auto;
+        margin-right: auto;
+    height: 200px;
+    width: auto;
+    }
+    .card {
+        background: black;
+    }
+
+
+    
+
+      .my-nav {
+        position: absolute;
+        top: 30px;
+        width: 100%;
+        z-index: 999;
+        background: none;
+        border: 0;
+        border-radius: 0;
+        
+      }
+      .my-carrusel {
+        position: absolute;
+        top: 0;
+      }
